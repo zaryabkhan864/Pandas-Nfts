@@ -33,7 +33,7 @@ This repository is for hosting the **NFTs Pandas Website**. It's a React-based w
 
 1. Run the project in the terminal:
    npm start
-2. Open http://localhost:3000/ in your web browser.
+2. Open https://pandas-nfts.netlify.app/ in your web browser.
 
 ## Contributing
 If you'd like to contribute to this project, you can send in your contributions. Here's how you can contribute:
